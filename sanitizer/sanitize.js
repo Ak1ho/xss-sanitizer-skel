@@ -23,6 +23,4 @@ class Sanitizer {
     return body.innerHTML;
   }
 }
-
-
 export { Sanitizer };
